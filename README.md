@@ -1,2 +1,0 @@
-# studyFramework
-test

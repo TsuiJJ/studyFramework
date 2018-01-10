@@ -1,6 +1,0 @@
-framework module frameworkTest {
-  umbrella header "frameworkTest.h"
-
-  export *
-  module * { export * }
-}
